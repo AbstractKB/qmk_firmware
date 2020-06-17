@@ -4,3 +4,6 @@
 
 #undef DEBOUNCE
 #define DEBOUNCE    10
+
+#undef TAPPING_TERM
+#define TAPPING_TERM    150
