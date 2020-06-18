@@ -3,7 +3,7 @@
 #define IGNORE_MOD_TAP_INTERRUPT
 
 #undef DEBOUNCE
-#define DEBOUNCE    10
+#define DEBOUNCE    12
 
 #undef TAPPING_TERM
-#define TAPPING_TERM    150
+#define TAPPING_TERM    175
